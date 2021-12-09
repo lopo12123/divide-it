@@ -1,0 +1,16 @@
+{
+  "name": "split-it",
+  "version": "1.0.0",
+  "description": "split a string with custom options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "split",
+    "string",
+    "divide"
+  ],
+  "author": "lopo",
+  "license": "MIT"
+}
