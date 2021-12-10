@@ -1,7 +1,7 @@
 {
-  "name": "split-it",
+  "name": "divide-it",
   "version": "1.0.0",
-  "description": "split a string with custom options",
+  "description": "divide a string into an array with custom options",
   "main": "index.js",
   "scripts": {
     "test": "echo see details in README.md"
